@@ -4,7 +4,7 @@ Live web app that predicts California house prices using
 Random Forest ML model.
 
 ## Live Demo
-[Click here to try the app](YOUR_STREAMLIT_URL_HERE)
+[Click here to try the app](https://house-price-webapp-sn7w6auwdcmoos6qkjp4xv.streamlit.app)
 
 ## Tools Used
 - Python, Scikit-learn, Streamlit, Matplotlib, Pandas
